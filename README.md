@@ -54,6 +54,7 @@ https://cdn.tk1982.com/app/TikTok%E5%85%8D%E6%8B%94%E5%8D%A1%E9%85%8D%E7%BD%AE%E
 ③添加节点：
 
 用小火箭扫描下方的二维码（可截图保存在自己相册）然后扫一扫添加一下节点，
+![自己节点](https://user-images.githubusercontent.com/93867652/140649356-7c646e95-b40a-47fa-9f0d-f1d2ef66aad5.png)
 
 
 温馨提示：
@@ -90,7 +91,6 @@ https://tiktok2021.bgjs666.com/
 需要独享节点网速快的请复制以下网址浏览器打开：
 http://www.xyfzsh.com/news/html/?441.html
 ---------------------------------------------------------
-qq邮箱注册不行的话，可以用手机号注册![自己节点](https://user-images.githubusercontent.com/93867652/140649342-10d37b4b-99b4-4c48-91e1-d40e9b72eee4.png)
-
+qq邮箱注册不行的话，可以用手机号注册!
 ------------------------------------------------------
 
